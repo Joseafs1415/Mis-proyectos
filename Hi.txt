@@ -1,1 +1,2 @@
 Hello, my name is José
+This change is a test for Git course
